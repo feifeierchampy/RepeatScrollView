@@ -7,7 +7,7 @@
   android:layout_height="match_parent"
   tools:context=".MainActivity">
 
-  <com.feifeier.repeatscrollview.library.RepeatScrollView
+  <com.feifeier.repeatscrollview.RepeatScrollView
     android:id="@+id/repeat_scroll_view"
     android:layout_width="match_parent"
     android:layout_height="match_parent"

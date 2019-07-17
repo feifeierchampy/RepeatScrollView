@@ -1,4 +1,4 @@
-package com.feifeier.repeatscrollview.library;
+package com.feifeier.repeatscrollview;
 
 import android.content.Context;
 import android.content.res.TypedArray;
@@ -15,6 +15,8 @@ import android.view.MotionEvent;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
+
+import com.feifeier.repeatscrollview.library.R;
 
 /***************************************************************************************************
  * 描述：背景图循环滚动的View

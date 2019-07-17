@@ -1,4 +1,4 @@
-package com.feifeier.repeatscrollview.library;
+package com.feifeier.repeatscrollview;
 
 import android.content.Context;
 import android.graphics.drawable.Drawable;

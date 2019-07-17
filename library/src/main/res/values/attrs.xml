@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <declare-styleable name="RepeatScrollView">
+    <!-- 轮播背景图 -->
+    <attr name="src" format="reference"/>
+    <!-- 滚动一屏时间 单位ms -->
+    <attr name="scroll_screen_time" format="float"/>
+
+  </declare-styleable>
+</resources>

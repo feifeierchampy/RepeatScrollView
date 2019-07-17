@@ -27,4 +27,6 @@ dependencies {
     implementation Libs.appCompatV7
     implementation Libs.recyclerView
     implementation Libs.constraintLayout
+
+    implementation project(":library")
 }

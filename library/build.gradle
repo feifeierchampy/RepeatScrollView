@@ -1,0 +1,7 @@
+apply from: rootProject.file('common_library.gradle')
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation Libs.appCompatV7
+    implementation Libs.recyclerView
+}
